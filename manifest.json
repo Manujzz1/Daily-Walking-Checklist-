@@ -1,0 +1,15 @@
+{
+  "name": "Daily Walking & Hydration Plan",
+  "short_name": "WalkPlan",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#00796B",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1809/1809110.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
